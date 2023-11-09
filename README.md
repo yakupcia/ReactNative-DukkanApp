@@ -1,6 +1,6 @@
 # DukkanApp
 
-**Loading**
+**Loading Lottie(animation)**
 
 <img src="photos/loading.png"  width="250">
 
