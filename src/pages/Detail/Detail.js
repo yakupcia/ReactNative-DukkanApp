@@ -18,7 +18,7 @@ function Detail({route}) {
   if (error) {
     return <Error />;
   }
-  console.log(data);
+  // console.log(data);
   return (
     <View>
       <Image source={{uri: data.image}} style={styles.image} />
