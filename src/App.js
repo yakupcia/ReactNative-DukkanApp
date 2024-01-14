@@ -19,7 +19,7 @@ const App = () => {
           options={{
             headerStyle: {backgroundColor: '#388E3C'},
             title: 'Store',
-            headerTitleStyle: {color: 'black'},
+            headerTitleStyle: {color: 'white'},
           }}
         />
         <Stack.Screen
